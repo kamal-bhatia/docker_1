@@ -1,1 +1,0 @@
-print("Inside test docker 1")
