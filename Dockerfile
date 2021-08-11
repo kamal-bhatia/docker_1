@@ -5,3 +5,4 @@ WORKDIR $APP_HOME
 COPY . ./
 
 CMD python3 test_docker_1.py
+
